@@ -877,7 +877,6 @@ a {
   transition: all .3s;
   border-bottom: 1px solid #e6e6e6;
   background: #ffffff;
-  background: none;
 }
 .cid-tc6QnQKimp .navbar.opened {
   transition: all .3s;
@@ -1135,17 +1134,36 @@ a {
     left: -1rem;
   }
 }
-.cid-rOMrPX7fgA {
-  padding-top: 135px;
-  padding-bottom: 45px;
-  background-color: #fafafa;
+.cid-tc75JoHfoA {
+  background-image: url("../../../assets/images/abbe-sublett-nxzdmuqhn4o-unsplash-2000x1330.jpg");
 }
-.cid-rOMrPX7fgA .mbr-text,
-.cid-rOMrPX7fgA .mbr-section-btn {
-  color: #333333;
+.cid-tc75JoHfoA .mbr-img-wrap {
+  height: 100%;
+  object-fit: cover;
+}
+.cid-tc75JoHfoA .mbr-section-tag {
+  margin-bottom: 14px;
+}
+.cid-tc75JoHfoA .mbr-section-btn {
+  margin: 1.625rem 0 0 0;
+}
+.cid-tc75JoHfoA .mbr-section-title {
+  margin-bottom: 2.1875rem;
+}
+.cid-tc75JoHfoA .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tc75JoHfoA .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-rOMrQogblI {
-  padding-top: 45px;
+  padding-top: 105px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -3838,7 +3856,7 @@ a {
 .cid-t7F2CHhojL {
   padding-top: 450px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/pic-20-1920x1280.jpg");
+  background-image: url("../../../assets/images/amirhossein-soltani-1jo3y-yeow4-unsplash-2000x3000.jpg");
 }
 .cid-t7F2CHhojL .link-wrap {
   width: 100%;
@@ -4506,7 +4524,7 @@ a {
 .cid-tc6QUA0qrj {
   padding-top: 450px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/pic-20-1920x1280.jpg");
+  background-image: url("../../../assets/images/austin-distel-pks3hczmyts-unsplash-2000x1374.jpg");
 }
 .cid-tc6QUA0qrj .link-wrap {
   width: 100%;
@@ -4913,7 +4931,6 @@ a {
   transition: all .3s;
   border-bottom: 1px solid #e6e6e6;
   background: #ffffff;
-  background: none;
 }
 .cid-tc6QUERG49 .navbar.opened {
   transition: all .3s;
@@ -5581,7 +5598,6 @@ a {
   transition: all .3s;
   border-bottom: 1px solid #e6e6e6;
   background: #ffffff;
-  background: none;
 }
 .cid-tc6RHJ1lqR .navbar.opened {
   transition: all .3s;
